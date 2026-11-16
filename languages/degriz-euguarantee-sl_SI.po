@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Degriz EU Guarantee 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#: includes/class-settings.php:53
+msgid "A button that opens the notice in a dialog"
+msgstr "Gumb, ki odpre obvestilo v pojavnem oknu"
+
+#: includes/class-settings.php:54
+msgid "A text link that opens the notice"
+msgstr "Besedilna povezava, ki odpre obvestilo"
+
+#: includes/class-settings.php:67
+msgid "Attach the notice (PDF) to the order confirmation e-mail"
+msgstr "Obvestilo (PDF) priloži potrditveni e-pošti naročila"
+
+#: includes/class-settings.php:61
+msgid "Button or link text"
+msgstr "Besedilo gumba ali povezave"
+
+#: includes/class-notice-view.php:98
+msgid "Close"
+msgstr "Zapri"
+
+#: degriz-euguarantee.php:63
+msgid "Degriz EU Guarantee requires WooCommerce to be active."
+msgstr "Degriz EU Guarantee zahteva aktiven WooCommerce."
+
+#: includes/class-settings.php:116 includes/class-settings.php:117 includes/class-settings.php:184
+msgid "EU guarantee settings"
+msgstr "Nastavitve garancije EU"
+
+#: includes/class-notice-view.php:98
+msgid "EU notice on the legal guarantee"
+msgstr "Obvestilo EU o zakonskem jamstvu"
+
+#: includes/class-notice-view.php:91 includes/class-notice-view.php:99
+msgid "EU notice on the legal guarantee of conformity"
+msgstr "Obvestilo EU o zakonskem jamstvu za skladnost"
+
+#: includes/class-settings.php:62
+msgid "Empty for \"Your rights under the legal guarantee\", translated."
+msgstr "Prazno za \"Vaše pravice iz zakonskega jamstva\", prevedeno."
+
+#: includes/class-settings.php:223
+msgid "Enabled"
+msgstr "Vklopljeno"
+
+#: includes/class-settings.php:41
+msgid "In the cart"
+msgstr "V košarici"
+
+#: includes/class-settings.php:31
+msgid "In the footer of every page"
+msgstr "V nogi vsake strani"
+
+#: includes/class-notice-view.php:91 includes/class-notice-view.php:100
+msgid "Link to further information on the legal guarantee"
+msgstr "Povezava do dodatnih informacij o zakonskem jamstvu"
+
+#: includes/class-settings.php:36
+msgid "On the product page"
+msgstr "Na strani izdelka"
+
+#: includes/class-notice-view.php:100
+msgid "Open as PDF"
+msgstr "Odpri kot PDF"
+
+#: includes/class-settings.php:46
+msgid "Right above the Place order button"
+msgstr "Tik nad gumbom za oddajo naročila"
+
+#: degriz-euguarantee.php:77
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: includes/class-settings.php:26
+msgid "Show the EU notice on the legal guarantee"
+msgstr "Prikaži obvestilo EU o zakonskem jamstvu"
+
+#: includes/class-settings.php:51
+msgid "Shown as"
+msgstr "Prikazano kot"
+
+#: includes/class-settings.php:68
+msgid "The confirmation has to reach the customer on a durable medium; a link to the shop is not one."
+msgstr "Potrditev mora do kupca priti na trajnem nosilcu; povezava na trgovino to ni."
+
+#: includes/class-settings.php:55
+msgid "The notice picture on the page"
+msgstr "Slika obvestila na strani"
+
+#: includes/class-notice-view.php:60
+msgid "Your rights under the legal guarantee"
+msgstr "Vaše pravice iz zakonskega jamstva"

@@ -1,0 +1,66 @@
+.deg {
+	margin: 1rem 0;
+}
+
+.deg__button {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 0.55rem 1rem;
+	border: 1px solid #c9c9c9;
+	background: #fff;
+	color: inherit;
+	font-size: 0.8rem;
+	text-decoration: none;
+}
+
+.deg__button::before {
+	content: "\1F6E1";
+	font-size: 0.9rem;
+}
+
+.deg__link {
+	font-size: 0.85rem;
+}
+
+.deg--footer {
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 1rem 1.5rem 1.5rem;
+}
+
+.deg__dialog {
+	width: min(46rem, 94vw);
+	max-height: 94vh;
+	padding: 1rem;
+	border: 0;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.35);
+	overflow: auto;
+}
+
+.deg__dialog::backdrop {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.deg__close {
+	position: sticky;
+	top: 0;
+	float: right;
+	border: 0;
+	background: #f1f1f1;
+	font-size: 1.4rem;
+	cursor: pointer;
+}
+
+.deg__img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.deg__more {
+	margin: 0.75rem 0 0;
+	font-size: 0.85rem;
+	text-align: center;
+}

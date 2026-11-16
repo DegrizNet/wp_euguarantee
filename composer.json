@@ -1,0 +1,12 @@
+{
+    "name": "degriznet/wp_euguarantee",
+    "description": "The official EU notice on the legal guarantee of conformity (Implementing Regulation (EU) 2025/1960) for WooCommerce: a button that opens it in a dialog in the footer, on the product page, in the cart and above Place order, and the PDF attached to the order confirmation.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "installer-name": "degriz-euguarantee"
+    }
+}
