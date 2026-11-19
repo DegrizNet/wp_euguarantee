@@ -3,7 +3,7 @@
  * Plugin Name:       Degriz EU Guarantee
  * Plugin URI:        https://degriz.net
  * Description:       The official EU notice on the legal guarantee of conformity (Implementing Regulation (EU) 2025/1960) for WooCommerce: a button that opens it in a dialog in the footer, on the product page, in the cart and above Place order, and the PDF attached to the order confirmation.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 6.2
  * Requires PHP:      8.0
  * Requires Plugins:  woocommerce
@@ -20,7 +20,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'DEGRIZ_EUGUARANTEE_VERSION', '1.0.0' );
+define( 'DEGRIZ_EUGUARANTEE_VERSION', '1.0.1' );
 define( 'DEGRIZ_EUGUARANTEE_FILE', __FILE__ );
 define( 'DEGRIZ_EUGUARANTEE_DIR', plugin_dir_path( __FILE__ ) );
 define( 'DEGRIZ_EUGUARANTEE_URL', plugin_dir_url( __FILE__ ) );

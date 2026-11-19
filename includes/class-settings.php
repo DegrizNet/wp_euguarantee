@@ -183,6 +183,7 @@ class Settings {
 		<div class="wrap">
 			<h1><?php echo esc_html__( 'EU guarantee settings', 'degriz-euguarantee' ); ?></h1>
 			<?php settings_errors(); ?>
+			<div class="notice notice-warning inline"><p><?php echo esc_html__( 'Disclaimer: the notice is the official EU text (Commission Implementing Regulation (EU) 2025/1960) as of 19 November 2026 and is provided for information only. You alone are responsible for the correctness, completeness and legal compliance of what your shop shows. This is not legal advice. The plugin is provided "as is", without warranty of any kind, and its author is not liable for any damage arising from its use.', 'degriz-euguarantee' ); ?></p></div>
 
 			<form method="post" action="options.php">
 				<?php settings_fields( 'degriz_euguarantee' ); ?>

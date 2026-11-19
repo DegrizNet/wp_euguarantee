@@ -21,5 +21,6 @@
  "Attach the notice (PDF) to the order confirmation e-mail": "Obvestilo (PDF) priloži potrditveni e-pošti naročila",
  "The confirmation has to reach the customer on a durable medium; a link to the shop is not one.": "Potrditev mora do kupca priti na trajnem nosilcu; povezava na trgovino to ni.",
  "EU guarantee settings": "Nastavitve garancije EU",
- "Enabled": "Vklopljeno"
+ "Enabled": "Vklopljeno",
+ "Disclaimer: the notice is the official EU text (Commission Implementing Regulation (EU) 2025/1960) as of 19 November 2026 and is provided for information only. You alone are responsible for the correctness, completeness and legal compliance of what your shop shows. This is not legal advice. The plugin is provided \"as is\", without warranty of any kind, and its author is not liable for any damage arising from its use.": "Izjava o odgovornosti: obvestilo je uradno besedilo EU (Izvedbena uredba Komisije (EU) 2025/1960) na dan 19. novembra 2026 in je na voljo zgolj informativno. Za pravilnost, popolnost in skladnost s predpisi tega, kar prikazuje vaša trgovina, odgovarjate izključno vi. To ni pravni nasvet. Vtičnik je na voljo »kot je«, brez kakršne koli garancije, avtor pa ne odgovarja za nobeno škodo, ki bi nastala pri njegovi uporabi."
 }

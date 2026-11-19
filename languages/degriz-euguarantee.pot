@@ -29,6 +29,10 @@ msgstr ""
 msgid "Degriz EU Guarantee requires WooCommerce to be active."
 msgstr ""
 
+#: includes/class-settings.php:186
+msgid "Disclaimer: the notice is the official EU text (Commission Implementing Regulation (EU) 2025/1960) as of 19 November 2026 and is provided for information only. You alone are responsible for the correctness, completeness and legal compliance of what your shop shows. This is not legal advice. The plugin is provided \"as is\", without warranty of any kind, and its author is not liable for any damage arising from its use."
+msgstr ""
+
 #: includes/class-settings.php:116 includes/class-settings.php:117 includes/class-settings.php:184
 msgid "EU guarantee settings"
 msgstr ""
@@ -45,7 +49,7 @@ msgstr ""
 msgid "Empty for \"Your rights under the legal guarantee\", translated."
 msgstr ""
 
-#: includes/class-settings.php:223
+#: includes/class-settings.php:224
 msgid "Enabled"
 msgstr ""
 
